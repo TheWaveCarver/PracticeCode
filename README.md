@@ -6,7 +6,7 @@ A repository to store original submissions for various HackerRank (or other) cod
 - Tyler Carrara	(Java)
 - Adam Pollack	(TBD)
 
-# Week Schedule (Perform a GIT Pull)
+# Week Schedule (Current Stage: ALGORITHMS)
 1. *Solve Me First*
 2. *Simple Array Sum*
 3. *Compare the Triplets*
