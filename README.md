@@ -2,9 +2,9 @@
 A repository to store original submissions for various HackerRank (or other) coding challenges.
 
 # Current Coders
---Avery Nisbet 	(C++)
---Tyler Carrara	(Java)
---Adam Pollack	(TBD)
+-Avery Nisbet 	(C++)
+-Tyler Carrara	(Java)
+-Adam Pollack	(TBD)
 
 # Week Schedule (Perform a GIT Pull)
 1. Solve Me First
