@@ -2,7 +2,7 @@
 A repository to store original submissions for various HackerRank (or other) coding challenges.
 
 # Current Coders
-- Avery Nisbet 	(C++)
+- Avery Nisbet 	(C++ and Python - switching between the two)
 - Tyler Carrara	(Java)
 - Adam Pollack	(TBD)
 
