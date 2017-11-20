@@ -20,6 +20,7 @@ public class Solution {
 		return countFruit; // return the number of fruit on house
 	}
 	
+	// main function
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		int s = in.nextInt(); // left side of house 

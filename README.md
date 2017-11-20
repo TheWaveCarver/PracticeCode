@@ -14,7 +14,7 @@ A repository to store original submissions for various HackerRank (or other) cod
 5. *Time Conversion*
 
 # Next Week's Schedule (Due: 11/26)
-1. *Grading Students*
+1. *Grading Students shit*
 2. *Apple and Orange*
 3. *Kangaroo*
 4. *Between Two Sets*
