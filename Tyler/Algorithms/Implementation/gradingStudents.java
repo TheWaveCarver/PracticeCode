@@ -36,7 +36,7 @@ public class Solution {
     int n = in.nextInt();
     int[] grades = new int[n];
     for(int grades_i=0; grades_i < n; grades_i++){
-    	grades[grades_i] = in.nextInt();
+      grades[grades_i] = in.nextInt();
     }
     int[] result = solve(grades);
     for (int i = 0; i < result.length; i++) {
