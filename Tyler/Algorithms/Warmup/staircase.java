@@ -2,8 +2,8 @@ import java.io.*;
 import java.util.*;
 
 public class Solution {
-  
-  // Returns an array of strings representing each "step"
+	
+	// Returns an array of strings representing each "step"
 	private static String[] constructStairs(int n) {
 		
 		// Define an array to store each "step" 
@@ -16,14 +16,14 @@ public class Solution {
 			String stair   = spaces + hashtag;
 			stairArray[i]  = stair;  
 		}
-    return stairArray;
+		return stairArray;
 	}
 
-  // Main function
+	// Main function
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in); 
 		int n = in.nextInt();
-	  String[] stairArray = constructStairs(n);
+		String[] stairArray = constructStairs(n);
 		for (int i = 0; i < n; i++) {
 			System.out.println(stairArray[i]);
 		}

@@ -36,7 +36,7 @@ public class Solution {
 		}
 		float[] result = fractionOfNum(n, numList);
 		for (int i = 0; i < 3; i++) {
-      System.out.println(String.format("%.6f", result[i]));
+			System.out.println(String.format("%.6f", result[i]));
 		}	
 	}
 }

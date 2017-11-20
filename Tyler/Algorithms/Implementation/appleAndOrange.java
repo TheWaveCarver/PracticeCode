@@ -11,7 +11,7 @@ public class Solution {
 		// Define variables
 		int countFruit = 0; 
 
-    // Determine what fruits falls onto the house
+		// Determine what fruits falls onto the house
 		for (int i = 0; i < fruit.length; i++) {
 			if (((tree + fruit[i]) >= leftSideHouse) && ((tree + fruit[i]) <= rightSideHouse)) {
 				countFruit++;
