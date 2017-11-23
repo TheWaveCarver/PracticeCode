@@ -6,13 +6,6 @@ A repository to store original submissions for various HackerRank (or other) cod
 - Tyler Carrara	(Java)
 - Adam Pollack	(TBD)
 
-# This Week's Schedule (Due: 11/19)
-1. *Plus Minus*
-2. *Staircase*
-3. *Mini-Max Sum*
-4. *Birthday Cake Candles*
-5. *Time Conversion*
-
 # Next Week's Schedule (Due: 11/26)
 1. *Grading Students*
 2. *Apple and Orange*
@@ -31,6 +24,14 @@ A repository to store original submissions for various HackerRank (or other) cod
 *A user can redeem their folder and name by catching up to the current weekly assignment. By adding your name to the "Current Coders" list you accept the terms outlined above.*
 
 # Past Weeks Work
+
+11/12/17 - 11/19/17
+1. *Plus Minus*
+2. *Staircase*
+3. *Mini-Max Sum*
+4. *Birthday Cake Candles*
+5. *Time Conversion*
+
 11/05/17 - 11/12/17
 1. *Solve Me First*
 2. *Simple Array Sum*
