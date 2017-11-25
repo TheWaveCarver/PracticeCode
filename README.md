@@ -6,7 +6,22 @@ A repository to store original submissions for various HackerRank (or other) cod
 - Tyler Carrara	(Java)
 - Adam Pollack	(TBD)
 
-# Next Week's Schedule (Due: 11/26)
+# Next Week's Schedule (Due: 12/03)
+1. *Arrays - DS*
+2. *2D Array - DS*
+3. *Dynamic Array*
+4. *Left Rotation*
+5. *Sparse Arrays*
+6. *Array Manipulation*
+
+# Notice
+*If a member fails to populate their folder on-time with the weekly assignment for two consecutive weeks, the following actions will be taken: Their name will be struck from the "Current Coders" list. The member's coding folder will be moved to the trash bin.*
+
+*A user can redeem their folder and name by catching up to the current weekly assignment. By adding your name to the "Current Coders" list you accept the terms outlined above.*
+
+# Past Weeks Work
+
+11/19/17 - 11/26/17
 1. *Grading Students*
 2. *Apple and Orange*
 3. *Kangaroo*
@@ -17,13 +32,6 @@ A repository to store original submissions for various HackerRank (or other) cod
 8. *Migratory Birds*
 9. *Day of the Programmer*
 10. *Bon Appetit*
-
-# Notice
-*If a member fails to populate their folder on-time with the weekly assignment for two consecutive weeks, the following actions will be taken: Their name will be struck from the "Current Coders" list. The member's coding folder will be moved to the trash bin.*
-
-*A user can redeem their folder and name by catching up to the current weekly assignment. By adding your name to the "Current Coders" list you accept the terms outlined above.*
-
-# Past Weeks Work
 
 11/12/17 - 11/19/17
 1. *Plus Minus*
